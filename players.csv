@@ -1,0 +1,501 @@
+﻿id,name,nationality,year,team,source,tournament,pac,sho,pas,dri,def,phy,titleBonus,awardBonus,position,naturalPosition
+messi,Lionel Messi,Argentina,2006,FC Barcelona,CLUB,,91,82,88,94,35,60,3,2,FW,RW
+messi,Lionel Messi,Argentina,2022,Argentina,NATIONAL,World Cup,85,96,95,97,40,65,5,5,FW,RW
+cr7,Cristiano Ronaldo,Portugal,2011,Real Madrid,CLUB,,93,94,86,91,35,82,4,4,FW,LW
+cr7,Cristiano Ronaldo,Portugal,2017,Real Madrid,CLUB,,88,96,85,88,40,90,5,5,FW,ST
+ronaldo,Ronaldo Nazario,Brazil,2002,Brazil,NATIONAL,World Cup,95,97,85,95,30,82,5,5,FW,ST
+ronaldo,Ronaldo Nazario,Brazil,1998,Inter Milan,CLUB,,96,94,82,94,30,78,2,4,FW,ST
+ronaldinho,Ronaldinho,Brazil,2006,FC Barcelona,CLUB,,93,90,90,97,30,70,4,4,FW,LW
+ronaldinho,Ronaldinho,Brazil,2002,Brazil,NATIONAL,World Cup,92,88,88,95,35,72,5,3,FW,LW
+xavi,Xavi,Spain,2006,FC Barcelona,CLUB,,75,70,97,94,65,65,3,2,MF,CM
+xavi,Xavi,Spain,2010,Spain,NATIONAL,World Cup,74,70,98,95,67,65,5,4,MF,CM
+iniesta,Andres Iniesta,Spain,2009,FC Barcelona,CLUB,,82,75,95,96,55,65,4,3,MF,CM
+iniesta,Andres Iniesta,Spain,2010,Spain,NATIONAL,World Cup,84,78,96,97,55,67,5,4,MF,CM
+neuer,Manuel Neuer,Germany,2014,Germany,NATIONAL,World Cup,86,60,90,70,95,88,5,4,GK,GK
+neuer,Manuel Neuer,Germany,2013,Bayern Munich,CLUB,,86,55,88,65,96,90,5,3,GK,GK
+lahm,Philipp Lahm,Germany,2014,Germany,NATIONAL,World Cup,88,60,90,85,92,70,5,3,DF,RB
+lahm,Philipp Lahm,Germany,2013,Bayern Munich,CLUB,,88,55,91,86,90,72,5,3,DF,RB
+kroos,Toni Kroos,Germany,2014,Germany,NATIONAL,World Cup,70,75,96,88,55,70,5,3,MF,CM
+kroos,Toni Kroos,Germany,2017,Real Madrid,CLUB,,68,78,97,88,58,72,5,3,MF,CM
+modric,Luka Modric,Croatia,2017,Real Madrid,CLUB,,85,75,95,95,70,70,5,4,MF,CM
+modric,Luka Modric,Croatia,2018,Croatia,NATIONAL,World Cup,86,78,94,94,68,72,5,5,MF,CM
+ramos,Sergio Ramos,Spain,2017,Real Madrid,CLUB,,78,70,82,75,94,92,5,3,DF,CB
+ramos,Sergio Ramos,Spain,2010,Spain,NATIONAL,World Cup,79,65,80,70,93,88,5,2,DF,CB
+puyol,Carles Puyol,Spain,2006,FC Barcelona,CLUB,,70,45,75,55,96,91,3,2,DF,CB
+puyol,Carles Puyol,Spain,2010,Spain,NATIONAL,World Cup,72,45,77,55,96,90,5,2,DF,CB
+vandijk,Virgil van Dijk,Netherlands,2019,Liverpool,CLUB,,78,55,85,60,96,95,4,3,DF,CB
+lewandowski,Robert Lewandowski,Poland,2020,Bayern Munich,CLUB,,78,97,82,90,40,90,5,5,FW,ST
+lewandowski,Robert Lewandowski,Poland,2022,Barcelona,CLUB,,80,96,84,88,42,88,3,3,FW,ST
+mbappe,Kylian Mbappe,France,2018,France,NATIONAL,World Cup,97,85,80,94,35,80,5,3,FW,RW
+mbappe,Kylian Mbappe,France,2022,France,NATIONAL,World Cup,98,96,83,95,38,82,4,5,FW,LW
+griezmann,Antoine Griezmann,France,2018,France,NATIONAL,World Cup,88,90,85,90,55,75,5,3,FW,ST
+kante,NGolo Kante,France,2018,France,NATIONAL,World Cup,85,55,82,80,96,88,5,2,MF,DM
+kante,NGolo Kante,France,2016,Chelsea,CLUB,,86,50,84,78,97,86,4,2,MF,DM
+pirlo,Andrea Pirlo,Italy,2006,Italy,NATIONAL,World Cup,60,65,98,90,60,65,5,3,MF,CM
+pirlo,Andrea Pirlo,Italy,2011,Juventus,CLUB,,62,67,97,89,62,67,4,2,MF,CM
+buffon,Gianluigi Buffon,Italy,2006,Italy,NATIONAL,World Cup,70,50,75,50,96,90,5,4,GK,GK
+cannavaro,Fabio Cannavaro,Italy,2006,Italy,NATIONAL,World Cup,78,40,70,55,98,82,5,5,DF,CB
+salah,Mohamed Salah,Egypt,2019,Liverpool,CLUB,,95,90,82,93,45,75,4,4,FW,RW
+mane,Sadio Mane,Senegal,2019,Liverpool,CLUB,,94,88,80,91,50,82,4,3,FW,LW
+firmino,Roberto Firmino,Brazil,2019,Liverpool,CLUB,,82,85,88,90,60,80,4,3,FW,ST
+pele,Pele,Brazil,1970,Brazil,NATIONAL,World Cup,92,98,91,96,35,88,5,5,FW,ST
+pele,Pele,Brazil,1962,Brazil,NATIONAL,World Cup,94,96,88,95,35,85,5,5,FW,ST
+garrincha,Garrincha,Brazil,1962,Brazil,NATIONAL,World Cup,96,88,82,97,30,72,5,4,FW,RW
+carlos_alberto,Carlos Alberto Torres,Brazil,1970,Brazil,NATIONAL,World Cup,90,72,88,84,85,82,5,3,DF,RB
+cafu,Cafu,Brazil,2002,Brazil,NATIONAL,World Cup,94,60,86,88,84,80,5,3,DF,RB
+roberto_carlos,Roberto Carlos,Brazil,2002,Brazil,NATIONAL,World Cup,96,75,85,90,82,88,5,3,DF,LB
+rivaldo,Rivaldo,Brazil,2002,Brazil,NATIONAL,World Cup,83,92,89,94,35,80,5,4,MF,AM
+kaka,Kaka,Brazil,2007,AC Milan,CLUB,,91,89,88,93,40,80,5,5,MF,AM
+romario,Romario,Brazil,1994,Brazil,NATIONAL,World Cup,89,95,80,94,30,72,5,4,FW,ST
+bebeto,Bebeto,Brazil,1994,Brazil,NATIONAL,World Cup,88,88,78,90,35,70,5,2,FW,RW
+zidane,Zinedine Zidane,France,2006,France,NATIONAL,World Cup,78,82,96,95,55,78,5,5,MF,AM
+zidane,Zinedine Zidane,France,2002,Real Madrid,CLUB,,80,85,95,94,50,78,4,4,MF,AM
+henry,Thierry Henry,France,2004,Arsenal,CLUB,,94,94,87,93,35,82,4,4,FW,LW
+henry,Thierry Henry,France,1998,France,NATIONAL,World Cup,92,85,82,91,35,80,5,2,FW,LW
+vieira,Patrick Vieira,France,2004,Arsenal,CLUB,,78,65,84,75,94,93,4,2,MF,DM
+makalele,Claude Makelele,France,2004,Chelsea,CLUB,,72,45,82,65,97,85,4,2,MF,DM
+platini,Michel Platini,France,1984,France,NATIONAL,World Cup,72,90,97,94,45,70,5,5,MF,AM
+beckenbauer,Franz Beckenbauer,Germany,1974,Germany,NATIONAL,World Cup,80,65,94,87,96,86,5,5,DF,CB
+matthaus,Lothar Matthaus,Germany,1990,Germany,NATIONAL,World Cup,88,82,91,89,90,90,5,5,MF,CM
+klose,Miroslav Klose,Germany,2014,Germany,NATIONAL,World Cup,78,92,72,82,40,85,5,4,FW,ST
+ballack,Michael Ballack,Germany,2002,Germany,NATIONAL,World Cup,78,85,86,80,72,88,4,3,MF,CM
+schweinsteiger,Bastian Schweinsteiger,Germany,2014,Germany,NATIONAL,World Cup,72,65,90,78,83,88,5,2,MF,CM
+seedorf,Clarence Seedorf,Netherlands,2003,AC Milan,CLUB,,76,72,90,87,65,85,4,2,MF,CM
+van_basten,Marco van Basten,Netherlands,1989,AC Milan,CLUB,,82,96,84,94,35,82,5,5,FW,ST
+cruyff,Johan Cruyff,Netherlands,1974,Netherlands,NATIONAL,World Cup,91,92,96,97,40,72,5,5,FW,ST
+bergkamp,Dennis Bergkamp,Netherlands,1998,Netherlands,NATIONAL,World Cup,72,88,92,95,35,75,4,4,FW,ST
+koeman,Ronald Koeman,Netherlands,1988,Netherlands,NATIONAL,World Cup,72,72,88,70,92,88,3,2,DF,CB
+baggio,Roberto Baggio,Italy,1994,Italy,NATIONAL,World Cup,84,91,91,96,30,65,5,5,FW,AM
+baresi,Franco Baresi,Italy,1990,Italy,NATIONAL,World Cup,75,45,86,55,98,82,5,4,DF,CB
+maldini,Paolo Maldini,Italy,1994,AC Milan,CLUB,,83,50,88,62,98,88,5,4,DF,LB
+maldini,Paolo Maldini,Italy,2003,AC Milan,CLUB,,78,45,88,58,97,86,5,3,DF,CB
+zoff,Dino Zoff,Italy,1982,Italy,NATIONAL,World Cup,68,45,70,45,97,86,5,4,GK,GK
+schmeichel,Peter Schmeichel,Denmark,1999,Manchester United,CLUB,,70,40,75,45,95,94,4,3,GK,GK
+casillas,Iker Casillas,Spain,2010,Spain,NATIONAL,World Cup,76,45,78,50,95,82,5,4,GK,GK
+casillas,Iker Casillas,Spain,2008,Real Madrid,CLUB,,78,45,80,50,94,82,4,3,GK,GK
+xabi_alonso,Xabi Alonso,Spain,2010,Spain,NATIONAL,World Cup,62,62,94,82,72,72,5,2,MF,DM
+busquets,Sergio Busquets,Spain,2010,Spain,NATIONAL,World Cup,55,48,95,78,91,75,5,2,MF,DM
+busquets,Sergio Busquets,Spain,2011,FC Barcelona,CLUB,,56,48,95,80,92,76,5,2,MF,DM
+fabregas,Cesc Fabregas,Spain,2010,Spain,NATIONAL,World Cup,72,72,94,91,45,68,5,2,MF,CM
+silva,David Silva,Spain,2012,Manchester City,CLUB,,78,78,94,95,42,65,4,3,MF,AM
+xabi_alonso2,Xabi Alonso,Spain,2014,Bayern Munich,CLUB,,60,60,92,80,75,76,4,2,MF,DM
+robben,Arjen Robben,Netherlands,2013,Bayern Munich,CLUB,,96,90,85,95,35,70,5,4,FW,RW
+ribery,Franck Ribery,France,2013,Bayern Munich,CLUB,,94,84,89,96,35,72,5,3,FW,LW
+lahm2,Philipp Lahm,Germany,2013,Bayern Munich,CLUB,,88,55,91,86,90,72,5,3,DF,LB
+vidic,Nemanja Vidic,Serbia,2008,Manchester United,CLUB,,72,45,72,50,96,94,4,3,DF,CB
+ferdinand,Rio Ferdinand,England,2008,Manchester United,CLUB,,82,45,82,55,94,90,4,2,DF,CB
+evra,Patrice Evra,France,2008,Manchester United,CLUB,,90,45,80,72,90,84,4,2,DF,LB
+xabi_alonso3,Xabi Alonso,Spain,2014,Real Madrid,CLUB,,60,62,93,81,70,76,5,2,MF,DM
+casemiro,Casemiro,Brazil,2017,Real Madrid,CLUB,,68,55,82,70,94,92,5,2,MF,DM
+marcelo,Marcelo,Brazil,2017,Real Madrid,CLUB,,91,72,88,94,75,78,5,3,DF,LB
+pepe,Pepe,Portugal,2017,Real Madrid,CLUB,,75,45,70,55,95,94,5,2,DF,CB
+benzema,Karim Benzema,France,2022,Real Madrid,CLUB,,82,94,88,91,45,84,5,5,FW,ST
+bale,Gareth Bale,Wales,2013,Real Madrid,CLUB,,97,90,82,91,40,86,5,3,FW,RW
+suarez,Luis Suarez,Uruguay,2015,Barcelona,CLUB,,82,96,87,94,45,88,5,5,FW,ST
+neymar,Neymar,Brazil,2015,Barcelona,CLUB,,94,90,88,98,30,70,5,4,FW,LW
+neymar,Neymar,Brazil,2018,Paris Saint-Germain,CLUB,,93,90,88,97,35,70,4,3,FW,LW
+ibrahimovic,Zlatan Ibrahimovic,Sweden,2013,Paris Saint-Germain,CLUB,,75,95,84,91,35,94,4,4,FW,ST
+xavi2,Xavi,Spain,2011,FC Barcelona,CLUB,,73,70,98,95,66,65,5,4,MF,CM
+iniesta2,Andres Iniesta,Spain,2011,FC Barcelona,CLUB,,83,78,96,97,56,68,5,4,MF,CM
+eto_o,Samuel Eto'o,Cameroon,2009,FC Barcelona,CLUB,,94,92,80,91,35,82,5,3,FW,ST
+pique,Gerard Pique,Spain,2011,FC Barcelona,CLUB,,65,45,82,55,94,88,5,2,DF,CB
+alves,Dani Alves,Brazil,2011,FC Barcelona,CLUB,,92,65,92,90,82,78,5,3,DF,RB
+busquets2,Sergio Busquets,Spain,2011,FC Barcelona,CLUB,,55,48,95,80,92,76,5,2,MF,DM
+kaka2,Kaka,Brazil,2007,AC Milan,CLUB,,91,89,88,93,40,80,5,5,MF,AM
+pirlo2,Andrea Pirlo,Italy,2007,AC Milan,CLUB,,61,66,97,90,60,66,5,3,MF,CM
+seedorf2,Clarence Seedorf,Netherlands,2007,AC Milan,CLUB,,76,72,91,88,66,85,5,2,MF,CM
+nesta,Alessandro Nesta,Italy,2007,AC Milan,CLUB,,72,42,80,50,98,88,5,3,DF,CB
+ronaldinho2,Ronaldinho,Brazil,2005,FC Barcelona,CLUB,,94,88,91,98,30,70,4,4,FW,LW
+henry2,Thierry Henry,France,2009,FC Barcelona,CLUB,,91,90,87,92,38,80,5,3,FW,LW
+fabregas2,Cesc Fabregas,Spain,2015,Chelsea,CLUB,,70,75,92,88,45,70,4,2,MF,CM
+hazard,Eden Hazard,Belgium,2015,Chelsea,CLUB,,94,82,87,96,35,70,5,3,FW,LW
+lampard,Frank Lampard,England,2005,Chelsea,CLUB,,68,88,88,82,72,84,5,3,MF,CM
+essien,Michael Essien,Ghana,2005,Chelsea,CLUB,,82,70,82,76,94,93,5,2,MF,DM
+terry,John Terry,England,2005,Chelsea,CLUB,,65,50,78,48,96,92,5,2,DF,CB
+cole,Ashley Cole,England,2005,Chelsea,CLUB,,91,45,82,70,94,80,5,2,DF,LB
+ronaldo2,Ronaldo Nazario,Brazil,2002,Real Madrid,CLUB,,93,95,84,94,32,82,4,5,FW,ST
+figo,Luis Figo,Portugal,2000,Real Madrid,CLUB,,88,84,91,94,35,75,4,4,FW,RW
+raul,Raul,Spain,2002,Real Madrid,CLUB,,80,90,84,91,42,78,5,3,FW,ST
+roberto_carlos2,Roberto Carlos,Brazil,2002,Real Madrid,CLUB,,96,76,85,91,83,88,5,3,DF,LB
+hierro,Fernando Hierro,Spain,2000,Real Madrid,CLUB,,65,65,85,55,93,88,4,2,DF,CB
+redondo,Fernando Redondo,Argentina,2000,Real Madrid,CLUB,,72,50,94,90,80,75,4,3,MF,DM
+sanchez,Hugo Sanchez,Mexico,1990,Real Madrid,CLUB,,86,96,70,90,30,82,4,4,FW,ST
+cantona,Eric Cantona,France,1994,Manchester United,CLUB,,78,90,88,87,40,82,5,3,FW,AM
+scholes,Paul Scholes,England,2008,Manchester United,CLUB,,65,82,92,82,70,75,4,2,MF,CM
+giggs,Ryan Giggs,Wales,1999,Manchester United,CLUB,,94,78,88,93,40,70,4,3,FW,LW
+rooney,Wayne Rooney,England,2010,Manchester United,CLUB,,88,92,88,91,50,84,5,4,FW,ST
+ronaldo3,Cristiano Ronaldo,Portugal,2008,Manchester United,CLUB,,96,93,84,94,38,82,5,5,FW,LW
+keane,Roy Keane,Ireland,1999,Manchester United,CLUB,,72,65,83,72,91,90,5,2,MF,CM
+maradona,Diego Maradona,Argentina,1986,Napoli,CLUB,,88,94,97,98,35,78,5,5,MF,AM
+maradona,Diego Maradona,Argentina,1987,Napoli,CLUB,,87,93,97,98,35,78,5,5,MF,AM
+maradona,Diego Maradona,Argentina,1984,Barcelona,CLUB,,86,90,94,96,32,75,3,4,MF,AM
+cruyff,Johan Cruyff,Netherlands,1973,Ajax,CLUB,,92,91,96,97,42,72,5,5,FW,ST
+cruyff,Johan Cruyff,Netherlands,1974,Barcelona,CLUB,,90,90,95,96,40,72,3,5,FW,ST
+van_basten,Marco van Basten,Netherlands,1989,AC Milan,CLUB,,83,97,86,95,38,84,5,5,FW,ST
+van_basten,Marco van Basten,Netherlands,1990,AC Milan,CLUB,,82,96,85,94,38,84,5,4,FW,ST
+gullit,Ruud Gullit,Netherlands,1989,AC Milan,CLUB,,88,88,88,90,70,94,5,4,MF,AM
+gullit,Ruud Gullit,Netherlands,1987,AC Milan,CLUB,,87,87,86,89,72,95,5,4,MF,AM
+rijkaard,Frank Rijkaard,Netherlands,1989,AC Milan,CLUB,,72,55,87,70,96,90,5,3,MF,DM
+romario,Romario,Brazil,1994,Barcelona,CLUB,,92,96,82,96,30,70,4,5,FW,ST
+romario,Romario,Brazil,1995,Barcelona,CLUB,,91,96,83,95,30,70,4,4,FW,ST
+rivaldo,Rivaldo,Brazil,1999,Barcelona,CLUB,,84,93,91,96,35,78,5,5,MF,AM
+rivaldo,Rivaldo,Brazil,2002,AC Milan,CLUB,,80,87,87,91,38,78,3,3,MF,AM
+kaka,Kaka,Brazil,2007,AC Milan,CLUB,,92,90,89,94,42,82,5,5,MF,AM
+ronaldinho,Ronaldinho,Brazil,2005,Barcelona,CLUB,,94,89,91,98,32,72,5,5,FW,LW
+ronaldinho,Ronaldinho,Brazil,2006,Barcelona,CLUB,,93,90,91,98,32,72,5,5,FW,LW
+neymar,Neymar,Brazil,2015,Barcelona,CLUB,,95,91,89,98,32,72,5,4,FW,LW
+suarez,Luis Suarez,Uruguay,2016,Barcelona,CLUB,,84,97,88,94,48,90,5,5,FW,ST
+suarez,Luis Suarez,Uruguay,2014,Liverpool,CLUB,,90,96,86,94,45,85,3,5,FW,ST
+eto_o,Samuel Eto'o,Cameroon,2006,Barcelona,CLUB,,95,93,82,92,38,84,5,4,FW,ST
+eto_o,Samuel Eto'o,Cameroon,2010,Inter Milan,CLUB,,94,91,80,90,40,83,5,4,FW,ST
+henry,Thierry Henry,France,2004,Arsenal,CLUB,,95,95,88,94,38,84,5,5,FW,ST
+bergkamp,Dennis Bergkamp,Netherlands,2002,Arsenal,CLUB,,72,89,94,96,38,76,4,4,FW,ST
+bergkamp,Dennis Bergkamp,Netherlands,1998,Arsenal,CLUB,,74,88,92,95,38,76,4,4,FW,ST
+cantona,Eric Cantona,France,1994,Manchester United,CLUB,,80,91,89,89,42,85,5,4,FW,ST
+cantona,Eric Cantona,France,1993,Manchester United,CLUB,,79,90,88,88,42,85,5,3,FW,ST
+rooney,Wayne Rooney,England,2010,Manchester United,CLUB,,89,93,89,92,52,86,5,4,FW,ST
+rooney,Wayne Rooney,England,2009,Manchester United,CLUB,,90,91,88,91,52,85,5,3,FW,ST
+beckham,David Beckham,England,1999,Manchester United,CLUB,,80,78,96,88,50,75,5,4,MF,RM
+beckham,David Beckham,England,2003,Real Madrid,CLUB,,78,80,95,86,52,77,3,3,MF,RM
+gerrard,Steven Gerrard,England,2005,Liverpool,CLUB,,84,88,91,84,78,88,4,4,MF,CM
+gerrard,Steven Gerrard,England,2009,Liverpool,CLUB,,82,90,90,86,72,86,3,3,MF,CM
+lampard,Frank Lampard,England,2005,Chelsea,CLUB,,70,89,91,84,73,86,5,4,MF,CM
+lampard,Frank Lampard,England,2010,Chelsea,CLUB,,68,91,90,82,70,85,4,4,MF,CM
+scholes,Paul Scholes,England,2003,Manchester United,CLUB,,67,82,94,84,68,76,4,3,MF,CM
+scholes,Paul Scholes,England,2007,Manchester United,CLUB,,65,84,94,83,70,76,5,3,MF,CM
+keane,Roy Keane,Ireland,1999,Manchester United,CLUB,,74,67,85,73,93,91,5,3,MF,CM
+giggs,Ryan Giggs,Wales,2003,Manchester United,CLUB,,92,79,89,94,42,70,4,3,FW,LW
+giggs,Ryan Giggs,Wales,1999,Manchester United,CLUB,,95,80,89,95,42,71,5,4,FW,LW
+vidic,Nemanja Vidic,Serbia,2009,Manchester United,CLUB,,70,45,73,48,97,95,5,3,DF,CB
+ferdinand,Rio Ferdinand,England,2009,Manchester United,CLUB,,83,45,84,58,95,90,5,3,DF,CB
+evra,Patrice Evra,France,2009,Manchester United,CLUB,,91,45,82,73,91,84,5,2,DF,LB
+van_der_sar,Edwin van der Sar,Netherlands,2008,Manchester United,CLUB,,72,40,78,48,96,91,5,3,GK,GK
+terry,John Terry,England,2008,Chelsea,CLUB,,64,50,79,48,97,93,5,3,DF,CB
+drogba,Didier Drogba,Ivory Coast,2010,Chelsea,CLUB,,84,94,80,84,48,96,5,4,FW,ST
+drogba,Didier Drogba,Ivory Coast,2012,Chelsea,CLUB,,82,93,79,82,50,96,5,5,FW,ST
+hazard,Eden Hazard,Belgium,2018,Chelsea,CLUB,,94,86,88,97,38,72,5,4,FW,LW
+de_bruyne,Kevin De Bruyne,Belgium,2020,Manchester City,CLUB,,76,91,97,91,55,78,5,5,MF,AM
+de_bruyne,Kevin De Bruyne,Belgium,2022,Manchester City,CLUB,,75,90,96,90,58,80,5,4,MF,AM
+aguero,Sergio Aguero,Argentina,2012,Manchester City,CLUB,,91,94,85,94,35,78,5,4,FW,ST
+aguero,Sergio Aguero,Argentina,2014,Manchester City,CLUB,,90,93,84,93,36,80,3,3,FW,ST
+yaya_toure,Yaya Toure,Ivory Coast,2014,Manchester City,CLUB,,82,80,88,85,78,94,5,3,MF,CM
+kompany,Vincent Kompany,Belgium,2014,Manchester City,CLUB,,68,55,76,52,96,94,4,3,DF,CB
+david_silva,David Silva,Spain,2012,Manchester City,CLUB,,79,78,95,96,43,66,5,4,MF,AM
+david_silva,David Silva,Spain,2019,Manchester City,CLUB,,74,80,94,93,45,64,4,3,MF,AM
+aguero2,Sergio Aguero,Argentina,2019,Manchester City,CLUB,,89,94,84,92,38,80,4,4,FW,ST
+vinicius,Vinicius Junior,Brazil,2022,Real Madrid,CLUB,,98,88,82,96,35,78,5,3,FW,LW
+vinicius,Vinicius Junior,Brazil,2024,Real Madrid,CLUB,,97,91,84,96,38,80,5,5,FW,LW
+bellingham,Jude Bellingham,England,2024,Real Madrid,CLUB,,88,90,89,91,72,86,5,4,MF,CM
+bellingham,Jude Bellingham,England,2023,Real Madrid,CLUB,,89,88,88,90,70,85,4,3,MF,AM
+ronaldo4,Cristiano Ronaldo,Portugal,2014,Real Madrid,CLUB,,95,98,87,94,40,86,5,5,FW,LW
+ronaldo5,Cristiano Ronaldo,Portugal,2013,Real Madrid,CLUB,,97,97,86,94,38,85,5,5,FW,LW
+benzema,Karim Benzema,France,2021,Real Madrid,CLUB,,83,93,91,91,48,84,5,4,FW,ST
+benzema,Karim Benzema,France,2019,Real Madrid,CLUB,,82,91,88,90,45,82,4,3,FW,ST
+casemiro,Casemiro,Brazil,2017,Real Madrid,CLUB,,70,57,84,71,96,93,5,3,MF,DM
+marcelo,Marcelo,Brazil,2011,Real Madrid,CLUB,,92,72,89,95,76,79,5,3,DF,LB
+alves,Dani Alves,Brazil,2015,Barcelona,CLUB,,91,66,94,91,84,78,5,3,DF,RB
+pique,Gerard Pique,Spain,2015,Barcelona,CLUB,,62,45,84,56,95,89,5,2,DF,CB
+mascherano,Javier Mascherano,Argentina,2011,Barcelona,CLUB,,65,45,80,52,96,88,5,2,MF,DM
+xavi3,Xavi,Spain,2011,Barcelona,CLUB,,73,70,98,95,67,65,5,5,MF,CM
+iniesta3,Andres Iniesta,Spain,2012,Barcelona,CLUB,,84,79,96,98,57,68,5,4,MF,CM
+busquets3,Sergio Busquets,Spain,2015,Barcelona,CLUB,,57,48,96,81,93,77,5,3,MF,DM
+suarez2,Luis Suarez,Uruguay,2015,Barcelona,CLUB,,84,97,88,95,48,89,5,5,FW,ST
+messi3,Lionel Messi,Argentina,2012,Barcelona,CLUB,,94,99,96,99,38,72,5,5,FW,RW
+messi4,Lionel Messi,Argentina,2015,Barcelona,CLUB,,95,97,97,99,40,72,5,5,FW,RW
+etoo2,Samuel Eto'o,Cameroon,2009,Barcelona,CLUB,,96,93,83,92,38,83,5,5,FW,ST
+puyol2,Carles Puyol,Spain,2009,Barcelona,CLUB,,72,45,77,56,97,92,5,3,DF,CB
+xavi4,Xavi,Spain,2009,Barcelona,CLUB,,74,69,97,94,66,65,5,3,MF,CM
+iniesta4,Andres Iniesta,Spain,2009,Barcelona,CLUB,,82,75,95,97,55,65,5,4,MF,CM
+rakitic,Ivan Rakitic,Croatia,2015,Barcelona,CLUB,,74,78,90,82,72,82,5,2,MF,CM
+neymar2,Neymar,Brazil,2017,Barcelona,CLUB,,96,91,90,98,33,73,4,4,FW,LW
+robben,Arjen Robben,Netherlands,2013,Bayern Munich,CLUB,,97,91,86,96,35,71,5,5,FW,RW
+ribery,Franck Ribery,France,2013,Bayern Munich,CLUB,,95,85,90,97,36,73,5,4,FW,LW
+lewandowski2,Robert Lewandowski,Poland,2020,Bayern Munich,CLUB,,80,99,85,91,42,91,5,5,FW,ST
+muller,Thomas Muller,Germany,2013,Bayern Munich,CLUB,,80,90,86,88,55,82,5,4,FW,ST
+muller,Thomas Muller,Germany,2014,Bayern Munich,CLUB,,78,91,87,87,58,83,5,4,FW,ST
+schweinsteiger2,Bastian Schweinsteiger,Germany,2013,Bayern Munich,CLUB,,73,66,91,79,85,89,5,3,MF,CM
+lahm3,Philipp Lahm,Germany,2013,Bayern Munich,CLUB,,89,56,92,87,92,73,5,4,DF,RB
+lahm4,Philipp Lahm,Germany,2015,Bayern Munich,CLUB,,87,54,91,85,91,72,5,3,DF,LB
+ribery2,Franck Ribery,France,2010,Bayern Munich,CLUB,,94,83,88,96,36,72,3,3,FW,LW
+kimmich,Joshua Kimmich,Germany,2020,Bayern Munich,CLUB,,78,65,93,84,88,82,5,3,MF,DM
+kimmich,Joshua Kimmich,Germany,2022,Bayern Munich,CLUB,,77,67,94,85,86,82,4,3,MF,DM
+schweinsteiger3,Bastian Schweinsteiger,Germany,2014,Bayern Munich,CLUB,,72,66,91,79,84,88,4,3,MF,CM
+pirlo3,Andrea Pirlo,Italy,2007,AC Milan,CLUB,,61,66,98,91,61,66,5,4,MF,CM
+nesta2,Alessandro Nesta,Italy,2003,AC Milan,CLUB,,73,42,81,50,98,88,5,4,DF,CB
+maldini3,Paolo Maldini,Italy,2003,AC Milan,CLUB,,79,45,89,59,98,87,5,4,DF,CB
+seedorf3,Clarence Seedorf,Netherlands,2007,AC Milan,CLUB,,77,73,92,89,67,86,5,3,MF,CM
+gattuso,Gennaro Gattuso,Italy,2007,AC Milan,CLUB,,78,55,80,67,96,91,5,2,MF,DM
+shevchenko,Andriy Shevchenko,Ukraine,2004,AC Milan,CLUB,,91,95,82,93,35,82,5,5,FW,ST
+shevchenko,Andriy Shevchenko,Ukraine,1999,AC Milan,CLUB,,92,94,80,92,35,80,4,4,FW,ST
+ibrahimovic2,Zlatan Ibrahimovic,Sweden,2013,Paris Saint-Germain,CLUB,,77,96,86,92,38,95,5,5,FW,ST
+ibrahimovic3,Zlatan Ibrahimovic,Sweden,2010,AC Milan,CLUB,,79,94,84,91,40,94,4,4,FW,ST
+verratti,Marco Verratti,Italy,2017,Paris Saint-Germain,CLUB,,76,55,92,94,70,70,4,3,MF,CM
+thiago_silva,Thiago Silva,Brazil,2017,Paris Saint-Germain,CLUB,,70,45,83,58,96,88,4,3,DF,CB
+cavani,Edinson Cavani,Uruguay,2017,Paris Saint-Germain,CLUB,,85,94,78,86,48,90,4,4,FW,ST
+mbappe2,Kylian Mbappe,France,2024,Paris Saint-Germain,CLUB,,98,96,87,96,40,82,5,5,FW,ST
+mbappe3,Kylian Mbappe,France,2023,Paris Saint-Germain,CLUB,,99,95,85,96,38,81,5,4,FW,LW
+deco,Deco,Portugal,2004,Porto,CLUB,,75,76,94,94,52,72,5,4,MF,AM
+deco2,Deco,Portugal,2006,Barcelona,CLUB,,73,76,94,93,55,74,5,3,MF,AM
+figo2,Luis Figo,Portugal,2000,Real Madrid,CLUB,,89,85,92,95,36,76,5,5,FW,RW
+raul2,Raul,Spain,2000,Real Madrid,CLUB,,81,91,85,92,43,79,4,4,FW,ST
+hierro2,Fernando Hierro,Spain,1998,Real Madrid,CLUB,,66,66,86,57,94,89,4,3,DF,CB
+redondo2,Fernando Redondo,Argentina,1998,Real Madrid,CLUB,,74,52,95,91,82,76,5,4,MF,DM
+casillas2,Iker Casillas,Spain,2012,Real Madrid,CLUB,,78,45,80,51,96,84,5,4,GK,GK
+ronaldo6,Ronaldo Nazario,Brazil,2003,Real Madrid,CLUB,,92,96,84,95,32,83,4,5,FW,ST
+roberto_carlos3,Roberto Carlos,Brazil,2002,Real Madrid,CLUB,,97,77,86,92,84,89,5,4,DF,LB
+cannavaro2,Fabio Cannavaro,Italy,2006,Real Madrid,CLUB,,79,40,71,55,98,83,4,4,DF,CB
+ramos2,Sergio Ramos,Spain,2014,Real Madrid,CLUB,,79,70,83,76,95,93,5,4,DF,CB
+alonso4,Xabi Alonso,Spain,2014,Real Madrid,CLUB,,61,61,94,81,76,77,5,3,MF,DM
+ozil,Mesut Ozil,Germany,2013,Real Madrid,CLUB,,72,78,96,94,35,68,4,4,MF,AM
+di_maria,Angel Di Maria,Argentina,2014,Real Madrid,CLUB,,94,82,91,94,55,80,5,3,MF,RM
+modric2,Luka Modric,Croatia,2018,Real Madrid,CLUB,,86,77,96,96,72,71,5,5,MF,CM
+modric3,Luka Modric,Croatia,2022,Real Madrid,CLUB,,83,73,95,94,70,70,4,4,MF,CM
+van_dijk2,Virgil van Dijk,Netherlands,2020,Liverpool,CLUB,,79,55,87,62,97,96,5,4,DF,CB
+alisson,Alisson,Brazil,2019,Liverpool,CLUB,,88,45,86,62,97,90,5,4,GK,GK
+alexander_arnold,Trent Alexander-Arnold,England,2020,Liverpool,CLUB,,82,55,97,85,75,76,5,3,DF,RB
+robertson,Andrew Robertson,Scotland,2020,Liverpool,CLUB,,94,45,88,78,90,82,5,2,DF,LB
+fabinho,Fabinho,Brazil,2020,Liverpool,CLUB,,68,48,85,69,95,90,5,2,MF,DM
+henderson,Jordan Henderson,England,2020,Liverpool,CLUB,,70,62,86,73,82,84,5,2,MF,CM
+salah2,Mohamed Salah,Egypt,2018,Liverpool,CLUB,,97,94,85,95,45,76,5,5,FW,RW
+mane2,Sadio Mane,Senegal,2020,Liverpool,CLUB,,96,90,82,93,51,83,5,3,FW,LW
+firmino2,Roberto Firmino,Brazil,2019,Liverpool,CLUB,,84,86,90,91,61,81,5,3,FW,ST
+gerard_muller,Gerd Muller,Germany,1972,Bayern Munich,CLUB,,84,99,76,91,32,82,5,5,FW,ST
+beckenbauer2,Franz Beckenbauer,Germany,1974,Bayern Munich,CLUB,,81,65,95,88,97,87,5,5,DF,CB
+matthaus2,Lothar Matthaus,Germany,1990,Inter Milan,CLUB,,90,83,92,90,91,91,5,5,MF,CM
+platini2,Michel Platini,France,1985,Juventus,CLUB,,73,91,98,95,46,71,5,5,MF,AM
+del_piero,Alessandro Del Piero,Italy,1998,Juventus,CLUB,,87,92,91,96,34,70,5,4,FW,ST
+del_piero,Alessandro Del Piero,Italy,2003,Juventus,CLUB,,84,89,90,94,38,71,4,4,FW,ST
+totti,Francesco Totti,Italy,2001,Roma,CLUB,,76,91,94,94,38,78,5,4,FW,AM
+totti,Francesco Totti,Italy,2007,Roma,CLUB,,75,93,92,92,40,80,4,4,FW,ST
+zoff2,Dino Zoff,Italy,1982,Juventus,CLUB,,69,45,71,45,98,87,5,4,GK,GK
+buffon2,Gianluigi Buffon,Italy,2003,Juventus,CLUB,,72,45,76,48,97,92,5,4,GK,GK
+nedved,Pavel Nedved,Czech Republic,2003,Juventus,CLUB,,88,88,90,88,58,82,5,4,MF,LM
+ronaldo7,Cristiano Ronaldo,Portugal,2017,Real Madrid,CLUB,,89,97,86,90,41,91,5,5,FW,ST
+ronaldo8,Cristiano Ronaldo,Portugal,2018,Juventus,CLUB,,91,95,85,90,42,90,3,4,FW,ST
+haaland,Erling Haaland,Norway,2023,Manchester City,CLUB,,89,99,76,87,45,95,5,5,FW,ST
+haaland,Erling Haaland,Norway,2024,Manchester City,CLUB,,91,98,78,88,47,96,5,4,FW,ST
+saka,Bukayo Saka,England,2024,Arsenal,CLUB,,92,84,86,91,45,74,4,3,FW,RW
+odegaard,Martin Odegaard,Norway,2024,Arsenal,CLUB,,76,78,94,94,48,68,4,3,MF,AM
+bergkamp2,Dennis Bergkamp,Netherlands,2002,Arsenal,CLUB,,73,89,95,97,38,77,4,4,FW,ST
+pires,Robert Pires,France,2002,Arsenal,CLUB,,88,84,91,94,40,72,5,3,MF,LM
+vieira2,Patrick Vieira,France,2004,Arsenal,CLUB,,79,66,85,76,95,94,5,3,MF,DM
+campbell,Sol Campbell,England,2004,Arsenal,CLUB,,75,45,73,52,96,94,4,2,DF,CB
+cech,Petr Cech,Czech Republic,2005,Chelsea,CLUB,,69,40,73,45,96,90,5,3,GK,GK
+makelele2,Claude Makelele,France,2005,Chelsea,CLUB,,73,45,83,66,98,86,5,3,MF,DM
+lampard3,Frank Lampard,England,2010,Chelsea,CLUB,,69,91,91,83,72,85,5,4,MF,CM
+drogba2,Didier Drogba,Ivory Coast,2012,Chelsea,CLUB,,83,94,80,84,51,96,5,5,FW,ST
+terry2,John Terry,England,2005,Chelsea,CLUB,,66,50,79,49,97,93,5,3,DF,CB
+cole2,Ashley Cole,England,2005,Chelsea,CLUB,,92,45,83,71,95,81,5,3,DF,LB
+hazard2,Eden Hazard,Belgium,2019,Chelsea,CLUB,,93,84,88,96,36,71,4,3,FW,LW
+yashin,Lev Yashin,Soviet Union,1963,Dynamo Moscow,CLUB,,74,35,72,45,99,90,5,5,GK,GK
+eusebio,Eusebio,Portugal,1965,Benfica,CLUB,,95,97,84,94,35,86,5,5,FW,ST
+eusebio,Eusebio,Portugal,1962,Benfica,CLUB,,94,96,83,93,35,84,5,4,FW,ST
+best,George Best,Northern Ireland,1968,Manchester United,CLUB,,96,89,88,98,32,74,5,5,FW,LW
+best,George Best,Northern Ireland,1969,Manchester United,CLUB,,95,88,87,97,32,74,4,4,FW,LW
+maradona,Diego Maradona,Argentina,1986,Argentina,NATIONAL,World Cup,89,95,98,99,38,80,5,5,MF,AM
+maradona,Diego Maradona,Argentina,1990,Argentina,NATIONAL,World Cup,84,91,96,97,42,78,3,5,MF,AM
+batistuta,Gabriel Batistuta,Argentina,1998,Argentina,NATIONAL,World Cup,86,97,78,88,35,90,4,4,FW,ST
+zanetti,Javier Zanetti,Argentina,1998,Argentina,NATIONAL,World Cup,90,52,86,78,92,84,3,3,DF,RB
+veron,Juan Sebastian Veron,Argentina,1998,Argentina,NATIONAL,World Cup,72,70,94,89,60,76,3,2,MF,CM
+riquelme,Juan Roman Riquelme,Argentina,2006,Argentina,NATIONAL,World Cup,62,78,97,94,35,70,3,3,MF,AM
+di_maria2,Angel Di Maria,Argentina,2014,Argentina,NATIONAL,World Cup,95,84,91,95,58,82,5,3,MF,LM
+mascherano2,Javier Mascherano,Argentina,2014,Argentina,NATIONAL,World Cup,67,45,84,55,97,90,5,3,MF,DM
+aguero3,Sergio Aguero,Argentina,2014,Argentina,NATIONAL,World Cup,91,91,82,93,38,80,3,3,FW,ST
+batistuta2,Gabriel Batistuta,Argentina,1994,Argentina,NATIONAL,World Cup,88,96,77,87,35,89,3,3,FW,ST
+ronaldo9,Ronaldo Nazario,Brazil,1998,Brazil,NATIONAL,World Cup,97,96,86,96,32,82,5,4,FW,ST
+romario2,Romario,Brazil,1994,Brazil,NATIONAL,World Cup,90,96,82,95,30,73,5,5,FW,ST
+rivaldo2,Rivaldo,Brazil,1998,Brazil,NATIONAL,World Cup,85,91,90,95,35,79,3,4,MF,AM
+ronaldinho3,Ronaldinho,Brazil,2002,Brazil,NATIONAL,World Cup,93,89,89,97,35,73,5,4,FW,LW
+kaka3,Kaka,Brazil,2010,Brazil,NATIONAL,World Cup,91,87,88,93,45,81,3,3,MF,AM
+cafu2,Cafu,Brazil,2002,Brazil,NATIONAL,World Cup,95,60,87,89,86,81,5,4,DF,RB
+roberto_carlos4,Roberto Carlos,Brazil,2002,Brazil,NATIONAL,World Cup,97,76,86,91,84,89,5,4,DF,LB
+lucio,Lucio,Brazil,2002,Brazil,NATIONAL,World Cup,80,52,75,57,96,94,5,2,DF,CB
+dida,Dida,Brazil,2002,Brazil,NATIONAL,World Cup,72,40,72,45,95,92,5,3,GK,GK
+thiago_silva2,Thiago Silva,Brazil,2014,Brazil,NATIONAL,World Cup,71,45,84,60,97,89,4,3,DF,CB
+pele2,Pele,Brazil,1958,Brazil,NATIONAL,World Cup,94,97,91,98,35,86,5,5,FW,ST
+garrincha2,Garrincha,Brazil,1962,Brazil,NATIONAL,World Cup,97,89,83,98,30,73,5,5,FW,RW
+zico,Zico,Brazil,1982,Brazil,NATIONAL,World Cup,80,91,96,97,38,72,3,4,MF,AM
+soccrates,Socrates,Brazil,1982,Brazil,NATIONAL,World Cup,70,78,94,91,48,84,3,3,MF,CM
+zidane2,Zinedine Zidane,France,1998,France,NATIONAL,World Cup,79,83,95,96,56,80,5,5,MF,AM
+zidane3,Zinedine Zidane,France,2006,France,NATIONAL,World Cup,79,83,97,96,55,79,5,5,MF,AM
+henry3,Thierry Henry,France,2006,France,NATIONAL,World Cup,93,91,85,93,38,81,3,3,FW,ST
+desailly,Marcel Desailly,France,1998,France,NATIONAL,World Cup,74,48,78,55,97,94,5,3,DF,CB
+thuram,Lilian Thuram,France,1998,France,NATIONAL,World Cup,86,48,79,69,96,88,5,3,DF,RB
+blanc,Laurent Blanc,France,1998,France,NATIONAL,World Cup,67,55,82,55,96,88,5,3,DF,CB
+barthez,Fabien Barthez,France,1998,France,NATIONAL,World Cup,78,40,75,48,95,85,5,3,GK,GK
+vieira3,Patrick Vieira,France,2006,France,NATIONAL,World Cup,78,63,84,75,94,92,3,3,MF,DM
+makalele3,Claude Makelele,France,2006,France,NATIONAL,World Cup,70,45,82,64,97,85,3,2,MF,DM
+griezmann2,Antoine Griezmann,France,2018,France,NATIONAL,World Cup,89,91,87,91,57,77,5,4,FW,ST
+benzema2,Karim Benzema,France,2022,France,NATIONAL,World Cup,83,93,88,91,46,84,3,4,FW,ST
+mbappe4,Kylian Mbappe,France,2018,France,NATIONAL,World Cup,98,86,82,96,38,81,5,4,FW,LW
+mbappe5,Kylian Mbappe,France,2022,France,NATIONAL,World Cup,99,97,84,96,39,83,5,5,FW,ST
+beckenbauer3,Franz Beckenbauer,Germany,1974,Germany,NATIONAL,World Cup,82,66,95,89,98,88,5,5,DF,CB
+gerd_muller2,Gerd Muller,Germany,1970,Germany,NATIONAL,World Cup,86,99,77,92,32,83,5,5,FW,ST
+matthaus3,Lothar Matthaus,Germany,1990,Germany,NATIONAL,World Cup,89,83,92,90,92,91,5,5,MF,CM
+rummenigge,Karl-Heinz Rummenigge,Germany,1982,Germany,NATIONAL,World Cup,91,94,81,91,38,86,5,4,FW,ST
+rummenigge,Karl-Heinz Rummenigge,Germany,1986,Germany,NATIONAL,World Cup,90,93,82,90,40,86,3,4,FW,ST
+schweinsteiger4,Bastian Schweinsteiger,Germany,2014,Germany,NATIONAL,World Cup,73,66,91,79,85,89,5,3,MF,CM
+kroos2,Toni Kroos,Germany,2018,Germany,NATIONAL,World Cup,68,76,97,89,58,71,3,4,MF,CM
+lahm5,Philipp Lahm,Germany,2014,Germany,NATIONAL,World Cup,89,60,91,86,93,72,5,3,DF,RB
+boateng,Jerome Boateng,Germany,2014,Germany,NATIONAL,World Cup,79,45,79,58,94,90,5,2,DF,CB
+muller2,Thomas Muller,Germany,2014,Germany,NATIONAL,World Cup,79,92,84,87,55,84,5,4,FW,ST
+klose2,Miroslav Klose,Germany,2010,Germany,NATIONAL,World Cup,80,92,73,83,40,86,5,4,FW,ST
+casillas3,Iker Casillas,Spain,2010,Spain,NATIONAL,World Cup,77,45,79,51,96,83,5,5,GK,GK
+ramos3,Sergio Ramos,Spain,2010,Spain,NATIONAL,World Cup,80,65,81,71,94,89,5,3,DF,CB
+puyol3,Carles Puyol,Spain,2010,Spain,NATIONAL,World Cup,73,45,78,56,97,91,5,3,DF,CB
+xabi_alonso4,Xabi Alonso,Spain,2010,Spain,NATIONAL,World Cup,63,62,95,83,74,73,5,3,MF,DM
+fabregas3,Cesc Fabregas,Spain,2010,Spain,NATIONAL,World Cup,73,72,95,92,46,69,5,2,MF,CM
+villa,David Villa,Spain,2010,Spain,NATIONAL,World Cup,90,95,84,92,38,79,5,5,FW,ST
+torres,Fernando Torres,Spain,2010,Spain,NATIONAL,World Cup,93,90,78,89,35,82,5,4,FW,ST
+silva2,David Silva,Spain,2010,Spain,NATIONAL,World Cup,79,80,94,96,43,66,5,3,MF,AM
+iniesta5,Andres Iniesta,Spain,2010,Spain,NATIONAL,World Cup,85,79,97,98,56,68,5,5,MF,CM
+busquets4,Sergio Busquets,Spain,2010,Spain,NATIONAL,World Cup,56,48,95,79,92,76,5,3,MF,DM
+xavi5,Xavi,Spain,2010,Spain,NATIONAL,World Cup,75,70,99,96,68,65,5,5,MF,CM
+cruyff2,Johan Cruyff,Netherlands,1974,Netherlands,NATIONAL,World Cup,92,93,97,98,42,73,5,5,FW,ST
+van_basten2,Marco van Basten,Netherlands,1990,Netherlands,NATIONAL,World Cup,84,97,85,95,38,84,5,4,FW,ST
+bergkamp3,Dennis Bergkamp,Netherlands,1998,Netherlands,NATIONAL,World Cup,73,89,93,96,38,76,3,4,FW,ST
+koeman2,Ronald Koeman,Netherlands,1990,Netherlands,NATIONAL,World Cup,73,73,89,71,93,89,3,3,DF,CB
+gullit2,Ruud Gullit,Netherlands,1990,Netherlands,NATIONAL,World Cup,89,88,89,91,71,94,3,4,MF,AM
+rijkaard2,Frank Rijkaard,Netherlands,1990,Netherlands,NATIONAL,World Cup,73,55,88,71,97,91,3,3,MF,DM
+robben2,Arjen Robben,Netherlands,2010,Netherlands,NATIONAL,World Cup,96,90,86,96,35,71,3,4,FW,RW
+sneijder,Wesley Sneijder,Netherlands,2010,Netherlands,NATIONAL,World Cup,81,85,94,92,50,72,3,5,MF,AM
+van_persie,Robin van Persie,Netherlands,2014,Netherlands,NATIONAL,World Cup,87,93,84,91,38,80,3,4,FW,ST
+buffon3,Gianluigi Buffon,Italy,2006,Italy,NATIONAL,World Cup,71,50,76,50,97,91,5,5,GK,GK
+maldini4,Paolo Maldini,Italy,1994,Italy,NATIONAL,World Cup,84,50,89,63,99,89,5,4,DF,LB
+baresi2,Franco Baresi,Italy,1990,Italy,NATIONAL,World Cup,76,45,87,56,99,83,5,4,DF,CB
+cannavaro3,Fabio Cannavaro,Italy,2006,Italy,NATIONAL,World Cup,79,40,72,56,99,84,5,5,DF,CB
+pirlo4,Andrea Pirlo,Italy,2006,Italy,NATIONAL,World Cup,61,65,99,91,61,66,5,4,MF,CM
+totti2,Francesco Totti,Italy,2006,Italy,NATIONAL,World Cup,76,87,94,94,39,79,5,3,MF,AM
+baggio2,Roberto Baggio,Italy,1994,Italy,NATIONAL,World Cup,85,92,92,97,31,66,5,5,FW,AM
+del_piero2,Alessandro Del Piero,Italy,2006,Italy,NATIONAL,World Cup,84,88,89,94,34,71,5,2,FW,ST
+zoff3,Dino Zoff,Italy,1982,Italy,NATIONAL,World Cup,69,45,71,45,98,87,5,5,GK,GK
+shevchenko2,Andriy Shevchenko,Ukraine,2006,Ukraine,NATIONAL,World Cup,91,94,82,92,36,83,3,4,FW,ST
+figo3,Luis Figo,Portugal,2006,Portugal,NATIONAL,World Cup,86,83,91,94,38,76,3,3,FW,RW
+eusebio2,Eusebio,Portugal,1966,Portugal,NATIONAL,World Cup,96,98,85,95,35,87,5,5,FW,ST
+ronaldo10,Cristiano Ronaldo,Portugal,2018,Portugal,NATIONAL,World Cup,92,96,86,91,42,91,3,4,FW,ST
+pepe2,Pepe,Portugal,2016,Portugal,NATIONAL,World Cup,74,45,72,55,96,94,5,3,DF,CB
+modric4,Luka Modric,Croatia,2018,Croatia,NATIONAL,World Cup,87,79,95,95,70,73,5,5,MF,CM
+suker,Davor Suker,Croatia,1998,Croatia,NATIONAL,World Cup,83,94,80,91,35,79,3,4,FW,ST
+stoichkov,Hristo Stoichkov,Bulgaria,1994,Bulgaria,NATIONAL,World Cup,91,95,83,93,35,83,5,5,FW,LW
+weah,George Weah,Liberia,1990,Liberia,NATIONAL,World Cup,94,94,78,93,34,91,3,5,FW,ST
+eto_o2,Samuel Eto'o,Cameroon,2002,Cameroon,NATIONAL,World Cup,95,91,80,92,38,83,3,3,FW,ST
+drogba3,Didier Drogba,Ivory Coast,2006,Ivory Coast,NATIONAL,World Cup,85,94,80,85,50,96,3,4,FW,ST
+eto_o3,Samuel Eto'o,Cameroon,2010,Cameroon,NATIONAL,World Cup,94,92,80,91,40,84,3,3,FW,ST
+salah3,Mohamed Salah,Egypt,2018,Egypt,NATIONAL,World Cup,96,89,82,94,44,76,3,3,FW,RW
+son,Son Heung-min,South Korea,2022,South Korea,NATIONAL,World Cup,97,91,82,92,43,79,3,3,FW,LW
+honda,Keisuke Honda,Japan,2010,Japan,NATIONAL,World Cup,72,80,87,82,45,78,3,3,MF,AM
+nakata,Hidetoshi Nakata,Japan,2002,Japan,NATIONAL,World Cup,78,76,91,88,48,76,3,3,MF,AM
+kagawa,Shinji Kagawa,Japan,2018,Japan,NATIONAL,World Cup,78,75,89,92,45,65,2,2,MF,AM
+endou,Yasuhito Endo,Japan,2010,Japan,NATIONAL,World Cup,55,55,91,79,65,70,3,2,MF,CM
+kubo,Takefusa Kubo,Japan,2022,Japan,NATIONAL,World Cup,91,70,84,94,42,63,2,2,MF,RW
+casillas,Iker Casillas,Spain,2009,Real Madrid,CLUB,,58,47,71,42,88,88,3,4,GK,GK
+casillas,Iker Casillas,Spain,2010,Spain,NATIONAL,World Cup,71,51,83,45,92,86,5,4,GK,GK
+cech,Petr Cech,Czech Republic,2005,Chelsea,CLUB,,61,34,85,46,92,86,3,2,GK,GK
+cech,Petr Cech,Czech Republic,2004,Czech Republic,NATIONAL,EURO,77,35,75,47,96,89,3,2,GK,GK
+schmeichel,Peter Schmeichel,Denmark,1999,Manchester United,CLUB,,70,38,72,56,91,93,3,2,GK,GK
+schmeichel,Peter Schmeichel,Denmark,1992,Denmark,NATIONAL,EURO,57,40,75,66,96,88,5,2,GK,GK
+carlos,Roberto Carlos,Brazil,2002,Real Madrid,CLUB,,88,36,91,80,89,83,4,2,DF,LB
+carlos,Roberto Carlos,Brazil,2002,Brazil,NATIONAL,World Cup,87,42,77,71,83,83,5,2,DF,LB
+cafú,Cafu,Brazil,2005,AC Milan,CLUB,,83,40,82,69,91,82,3,2,DF,RB
+cafú,Cafu,Brazil,2002,Brazil,NATIONAL,World Cup,88,45,81,72,84,73,5,2,DF,RB
+thuram,Lilian Thuram,France,1999,Juventus,CLUB,,79,51,84,87,77,71,3,2,DF,RB
+thuram,Lilian Thuram,France,1998,France,NATIONAL,World Cup,87,40,85,76,93,72,5,2,DF,RB
+terry,John Terry,England,2005,Chelsea,CLUB,,80,54,77,58,90,92,3,2,DF,CB
+terry,John Terry,England,2002,England,NATIONAL,World Cup,70,39,84,40,93,87,3,4,DF,CB
+ferdinand,Rio Ferdinand,England,2008,Manchester United,CLUB,,79,35,74,63,96,91,4,4,DF,CB
+ferdinand,Rio Ferdinand,England,2002,England,NATIONAL,World Cup,73,43,87,47,91,90,3,2,DF,CB
+vidic,Nemanja Vidic,Serbia,2009,Manchester United,CLUB,,67,35,83,45,91,85,3,2,DF,CB
+vidic,Nemanja Vidic,Serbia,2010,Serbia,NATIONAL,World Cup,76,44,68,47,86,90,3,2,DF,CB
+kompany,Vincent Kompany,Belgium,2014,Manchester City,CLUB,,73,57,84,52,93,91,4,2,DF,CB
+kompany,Vincent Kompany,Belgium,2018,Belgium,NATIONAL,World Cup,66,52,76,51,91,88,3,2,DF,CB
+marcelo,Marcelo,Brazil,2017,Real Madrid,CLUB,,91,47,77,82,91,74,3,2,DF,LB
+marcelo,Marcelo,Brazil,2018,Brazil,NATIONAL,World Cup,88,40,79,68,96,81,3,2,DF,LB
+alves,Dani Alves,Brazil,2011,Barcelona,CLUB,,88,44,76,73,81,79,3,2,DF,RB
+alves,Dani Alves,Brazil,2010,Brazil,NATIONAL,World Cup,95,56,74,70,90,79,3,2,DF,RB
+nesta,Alessandro Nesta,Italy,2003,AC Milan,CLUB,,76,43,71,50,93,87,3,2,DF,CB
+nesta,Alessandro Nesta,Italy,2006,Italy,NATIONAL,World Cup,70,44,78,45,89,86,3,4,DF,CB
+busquets,Sergio Busquets,Spain,2011,Barcelona,CLUB,,68,52,86,74,82,78,3,2,MF,DM
+busquets,Sergio Busquets,Spain,2010,Spain,NATIONAL,World Cup,68,52,93,80,80,86,5,2,MF,DM
+xabi_alonso,Xabi Alonso,Spain,2014,Real Madrid,CLUB,,70,63,92,93,60,80,4,4,MF,CM
+xabi_alonso,Xabi Alonso,Spain,2010,Spain,NATIONAL,World Cup,79,65,88,89,82,80,5,2,MF,CM
+gerrard,Steven Gerrard,England,2005,Liverpool,CLUB,,79,63,93,88,66,65,3,2,MF,CM
+gerrard,Steven Gerrard,England,2006,England,NATIONAL,World Cup,86,78,94,86,73,72,3,2,MF,CM
+lampard,Frank Lampard,England,2005,Chelsea,CLUB,,72,77,99,86,65,85,3,2,MF,CM
+lampard,Frank Lampard,England,2010,England,NATIONAL,World Cup,64,63,91,80,68,78,3,2,MF,CM
+scholes,Paul Scholes,England,2003,Manchester United,CLUB,,80,63,93,76,57,70,3,2,MF,CM
+scholes,Paul Scholes,England,2004,England,NATIONAL,EURO,72,73,99,95,61,85,3,2,MF,CM
+keane,Roy Keane,Ireland,2000,Manchester United,CLUB,,85,71,92,87,71,80,4,2,MF,CM
+keane,Roy Keane,Ireland,1994,Ireland,NATIONAL,World Cup,76,75,92,86,53,74,3,4,MF,CM
+rijkaard,Frank Rijkaard,Netherlands,1989,AC Milan,CLUB,,72,62,85,84,90,93,3,2,MF,DM
+rijkaard,Frank Rijkaard,Netherlands,1990,Netherlands,NATIONAL,World Cup,72,61,90,83,88,89,3,2,MF,DM
+gullit,Ruud Gullit,Netherlands,1989,AC Milan,CLUB,,87,83,93,89,62,60,3,2,MF,AM
+gullit,Ruud Gullit,Netherlands,1988,Netherlands,NATIONAL,EURO,85,93,93,94,60,74,5,2,MF,AM
+figo,Luis Figo,Portugal,2001,Real Madrid,CLUB,,98,88,82,97,54,70,3,4,FW,RW
+figo,Luis Figo,Portugal,2000,Portugal,NATIONAL,EURO,85,94,88,90,33,75,3,2,FW,RW
+beckham,David Beckham,England,2001,Manchester United,CLUB,,85,91,75,89,33,78,3,2,MF,RM
+beckham,David Beckham,England,2002,England,NATIONAL,World Cup,97,97,83,83,38,88,3,2,MF,RM
+rivaldo,Rivaldo,Brazil,2000,Barcelona,CLUB,,89,89,92,97,60,81,4,2,MF,AM
+rivaldo,Rivaldo,Brazil,2002,Brazil,NATIONAL,World Cup,77,90,87,87,51,73,5,2,MF,AM
+kaka,Kaka,Brazil,2007,AC Milan,CLUB,,88,94,94,92,54,75,3,2,MF,AM
+kaka,Kaka,Brazil,2006,Brazil,NATIONAL,World Cup,89,77,85,94,44,81,3,4,MF,AM
+zico,Zico,Brazil,1982,Udinese,CLUB,,74,84,95,92,36,65,4,2,MF,AM
+zico,Zico,Brazil,1982,Brazil,NATIONAL,World Cup,83,79,95,93,49,78,3,2,MF,AM
+baggio,Roberto Baggio,Italy,1993,Juventus,CLUB,,75,76,96,99,65,69,3,2,MF,AM
+baggio,Roberto Baggio,Italy,1994,Italy,NATIONAL,World Cup,70,78,91,92,35,62,3,2,MF,AM
+maradona,Diego Maradona,Argentina,1987,Napoli,CLUB,,77,88,94,86,45,77,3,2,MF,AM
+maradona,Diego Maradona,Argentina,1986,Argentina,NATIONAL,World Cup,77,88,86,98,38,66,3,2,MF,AM
+eusebio,Eusebio,Portugal,1965,Benfica,CLUB,,93,88,79,83,47,90,3,4,FW,ST
+eusebio,Eusebio,Portugal,1966,Portugal,NATIONAL,World Cup,82,88,73,91,38,81,3,2,FW,ST
+gerd_muller,Gerd Muller,Germany,1972,Bayern Munich,CLUB,,86,90,72,95,40,87,4,2,FW,ST
+gerd_muller,Gerd Muller,Germany,1970,West Germany,NATIONAL,World Cup,96,93,75,89,53,77,3,2,FW,ST
+rummenigge,Karl-Heinz Rummenigge,Germany,1981,Bayern Munich,CLUB,,82,94,72,81,36,86,3,2,FW,ST
+rummenigge,Karl-Heinz Rummenigge,Germany,1982,West Germany,NATIONAL,World Cup,96,90,82,87,36,83,3,4,FW,ST
+raul,Raul,Spain,2001,Real Madrid,CLUB,,82,98,80,82,46,88,3,2,FW,ST
+raul,Raul,Spain,2000,Spain,NATIONAL,EURO,85,97,86,77,46,83,3,2,FW,ST
+shevchenko,Andriy Shevchenko,Ukraine,2004,AC Milan,CLUB,,84,96,69,83,43,72,4,2,FW,ST
+shevchenko,Andriy Shevchenko,Ukraine,2006,Ukraine,NATIONAL,World Cup,96,89,85,83,45,73,3,2,FW,ST
+drogba,Didier Drogba,Ivory Coast,2010,Chelsea,CLUB,,91,99,73,79,36,75,4,2,FW,ST
+drogba,Didier Drogba,Ivory Coast,2006,Ivory Coast,NATIONAL,World Cup,80,89,68,86,29,70,3,2,FW,ST
+eto,Samuel Eto'o,Cameroon,2009,Barcelona,CLUB,,92,96,87,84,52,84,3,2,FW,ST
+eto,Samuel Eto'o,Cameroon,2000,Cameroon,NATIONAL,World Cup,90,88,87,94,41,86,3,2,FW,ST
+suarez,Luis Suarez,Uruguay,2015,Barcelona,CLUB,,91,89,74,81,34,77,3,4,FW,ST
+suarez,Luis Suarez,Uruguay,2010,Uruguay,NATIONAL,World Cup,84,93,84,91,57,92,3,2,FW,ST
+benzema,Karim Benzema,France,2022,Real Madrid,CLUB,,89,91,74,95,45,87,4,2,FW,ST
+benzema,Karim Benzema,France,2022,France,NATIONAL,World Cup,89,96,85,88,53,82,3,4,FW,ST
+bale,Gareth Bale,Wales,2016,Real Madrid,CLUB,,90,82,90,96,30,77,4,2,FW,LW
+bale,Gareth Bale,Wales,2016,Wales,NATIONAL,EURO,96,88,86,96,54,73,3,2,FW,LW
+hazard,Eden Hazard,Belgium,2018,Chelsea,CLUB,,95,91,88,91,42,73,4,2,FW,LW
+hazard,Eden Hazard,Belgium,2018,Belgium,NATIONAL,World Cup,96,79,79,92,28,58,3,2,FW,LW
+salah,Mohamed Salah,Egypt,2018,Liverpool,CLUB,,99,97,94,99,36,75,4,2,FW,RW
+salah,Mohamed Salah,Egypt,2018,Egypt,NATIONAL,World Cup,85,83,81,92,55,77,3,2,FW,RW
+mane,Sadio Mane,Senegal,2019,Liverpool,CLUB,,90,89,78,96,53,71,3,2,FW,LW
+mane,Sadio Mane,Senegal,2022,Senegal,NATIONAL,World Cup,96,87,93,97,32,77,3,2,FW,LW
+aguero,Sergio Aguero,Argentina,2012,Manchester City,CLUB,,92,96,84,93,35,90,4,2,FW,ST
+aguero,Sergio Aguero,Argentina,2014,Argentina,NATIONAL,World Cup,87,97,85,92,32,89,3,2,FW,ST
+tevez,Carlos Tevez,Argentina,2009,Manchester City,CLUB,,94,87,72,83,30,71,3,4,FW,ST
+tevez,Carlos Tevez,Argentina,2010,Argentina,NATIONAL,World Cup,86,92,79,85,54,81,3,4,FW,ST
+villa,David Villa,Spain,2010,Barcelona,CLUB,,83,94,77,80,53,75,4,2,FW,ST
+villa,David Villa,Spain,2010,Spain,NATIONAL,World Cup,79,90,75,81,30,73,5,2,FW,ST
+torres,Fernando Torres,Spain,2008,Liverpool,CLUB,,96,99,86,85,45,84,4,2,FW,ST
+torres,Fernando Torres,Spain,2008,Spain,NATIONAL,EURO,92,96,75,92,36,86,5,2,FW,ST
+bergkamp,Dennis Bergkamp,Netherlands,1998,Arsenal,CLUB,,87,90,80,85,39,75,4,2,FW,ST
+bergkamp,Dennis Bergkamp,Netherlands,1998,Netherlands,NATIONAL,World Cup,91,90,75,95,46,79,3,2,FW,ST
+batistuta,Gabriel Batistuta,Argentina,1998,Fiorentina,CLUB,,87,92,85,91,39,79,4,2,FW,ST
+batistuta,Gabriel Batistuta,Argentina,1998,Argentina,NATIONAL,World Cup,85,96,69,83,34,76,3,2,FW,ST
+shearer,Alan Shearer,England,1996,Blackburn Rovers,CLUB,,93,95,69,91,42,86,4,2,FW,ST
+shearer,Alan Shearer,England,1996,England,NATIONAL,EURO,92,96,80,83,45,80,3,2,FW,ST
+cantona,Eric Cantona,France,1996,Manchester United,CLUB,,84,97,80,89,36,80,4,2,FW,ST
+cantona,Eric Cantona,France,1992,France,NATIONAL,EURO,86,96,77,79,48,76,3,4,FW,ST
+rooney,Wayne Rooney,England,2010,Manchester United,CLUB,,91,93,79,85,49,77,4,4,FW,ST
+rooney,Wayne Rooney,England,2010,England,NATIONAL,World Cup,82,95,75,80,40,92,3,2,FW,ST
+neymar,Neymar,Brazil,2015,Barcelona,CLUB,,93,91,88,93,43,72,3,2,FW,LW
+neymar,Neymar,Brazil,2014,Brazil,NATIONAL,World Cup,96,89,81,93,52,81,3,2,FW,LW
+ronaldinho,Ronaldinho,Brazil,2005,Barcelona,CLUB,,92,85,84,99,47,61,3,2,FW,LW
+ronaldinho,Ronaldinho,Brazil,2002,Brazil,NATIONAL,World Cup,95,79,88,93,43,72,5,2,FW,LW
+robben,Arjen Robben,Netherlands,2013,Bayern Munich,CLUB,,88,91,90,88,53,67,3,2,FW,RW
+robben,Arjen Robben,Netherlands,2010,Netherlands,NATIONAL,World Cup,94,89,82,96,45,81,3,2,FW,RW
+ribery,Franck Ribery,France,2013,Bayern Munich,CLUB,,89,92,85,91,48,64,3,2,FW,LW
+ribery,Franck Ribery,France,2006,France,NATIONAL,World Cup,92,92,88,89,47,79,3,2,FW,LW
+maldini,Paolo Maldini,Italy,1994,AC Milan,CLUB,,98,60,85,76,87,89,4,2,DF,LB
+maldini,Paolo Maldini,Italy,1994,Italy,NATIONAL,World Cup,84,37,78,71,87,82,3,4,DF,LB
+zanetti,Javier Zanetti,Argentina,1998,Inter Milan,CLUB,,83,47,79,65,83,72,4,2,DF,RB

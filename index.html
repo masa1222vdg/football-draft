@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Football Historical Draft</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         タイトル
+    ========================== -->
+    <header class="header">
+        <h1>⚽ Football Historical Draft</h1>
+        <p>歴代スター選手で最強の11人を作ろう！</p>
+    </header>
+
+
+    <!-- =========================
+         ゲーム全体
+    ========================== -->
+    <main class="game-container">
+
+        <!-- =========================
+             スタート画面
+        ========================== -->
+        <section id="start-screen" class="screen">
+
+            <h2>チームを作ろう！</h2>
+
+            <p class="description">
+                歴代の名選手からドラフトして<br>
+                最強の11人を作ろう！
+            </p>
+
+            <div class="formation-select">
+
+                <h3>フォーメーションを選択</h3>
+
+                <select id="formation-select">
+                    <option value="4-3-3">4-3-3</option>
+                    <option value="4-4-2">4-4-2</option>
+                    <option value="3-4-3">3-4-3</option>
+                    <option value="4-2-3-1">4-2-3-1</option>
+                    <option value="3-5-2">3-5-2</option>
+                </select>
+
+            </div>
+
+            <button id="start-button" class="main-button">
+                ドラフト開始！
+            </button>
+
+        </section>
+
+
+        <!-- =========================
+             ドラフト画面
+        ========================== -->
+        <section id="draft-screen" class="screen hidden">
+
+            <!-- 上部情報 -->
+            <div class="draft-header">
+
+                <div>
+                    <span>ドラフト</span>
+                    <strong id="draft-count">0 / 11</strong>
+                </div>
+
+                <div>
+                    <span>スキップ</span>
+                    <strong id="skip-count">3</strong>
+                </div>
+
+            </div>
+
+
+            <!-- 現在のフォーメーション -->
+            <div class="formation-info">
+
+                <h2 id="current-formation">4-3-3</h2>
+
+                <p>
+                    現在必要なポジション：
+                    <strong id="needed-position">GK</strong>
+                </p>
+
+            </div>
+
+
+            <!-- ドラフト条件 -->
+            <div class="condition-box">
+
+                <p class="condition-label">
+                    今回のドラフト条件
+                </p>
+
+                <h2 id="condition-text">
+                    2006 FC Barcelona
+                </h2>
+
+            </div>
+
+
+            <!-- 候補選手 -->
+            <div class="candidates">
+
+                <h2>候補選手</h2>
+
+                <div id="candidate-list" class="candidate-list">
+                    <!-- JavaScriptで選手カードを追加 -->
+                </div>
+
+            </div>
+
+
+            <!-- スキップ -->
+            <button id="skip-button" class="skip-button">
+                この条件をスキップ
+            </button>
+
+
+            <!-- 現在のチーム -->
+            <div class="current-team">
+
+                <h2>現在のチーム</h2>
+
+                <div id="drafted-list" class="drafted-list">
+                    <!-- JavaScriptで追加 -->
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             最終チーム画面
+        ========================== -->
+        <section id="final-screen" class="screen hidden">
+
+            <h2>🏆 最終チーム</h2>
+
+            <!-- チーム評価 -->
+            <div class="team-result">
+
+                <div class="team-score">
+                    <span>TEAM SCORE</span>
+                    <strong id="team-score">0</strong>
+                </div>
+
+                <div class="team-rank">
+                    <span>RANK</span>
+                    <strong id="team-rank">-</strong>
+                </div>
+
+            </div>
+
+
+            <!-- ピッチ -->
+            <div class="pitch-container">
+
+                <div id="pitch" class="pitch">
+
+                    <!-- JavaScriptで選手を配置 -->
+
+                </div>
+
+            </div>
+
+
+            <!-- 評価詳細 -->
+            <div class="evaluation">
+
+                <div class="evaluation-item">
+                    <span>選手能力</span>
+                    <strong id="player-score">0</strong>
+                </div>
+
+                <div class="evaluation-item">
+                    <span>ケミストリー</span>
+                    <strong id="chemistry-score">0</strong>
+                </div>
+
+                <div class="evaluation-item">
+                    <span>特殊コンボ</span>
+                    <strong id="combo-score">0</strong>
+                </div>
+
+                <div class="evaluation-item">
+                    <span>フォーメーション</span>
+                    <strong id="formation-score">0</strong>
+                </div>
+
+            </div>
+
+
+            <!-- 最終選手一覧 -->
+            <div class="final-players">
+
+                <h2>選手一覧</h2>
+
+                <div id="final-player-list">
+                    <!-- JavaScriptで追加 -->
+                </div>
+
+            </div>
+
+
+            <!-- もう一度 -->
+            <button id="restart-button" class="main-button">
+                もう一度プレイ
+            </button>
+
+        </section>
+
+    </main>
+
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+
+</body>
+</html>
